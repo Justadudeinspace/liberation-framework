@@ -14,6 +14,6 @@ Pending Tasks:
 - Inject .libf into Termux shell
 
 [COMMANDS]
-Sol.load(.libf)
-Sol.snapshot("current")
-Sol.flow("continue")
+ChatGPT.load(.libf)
+ChatGPT.snapshot("current")
+ChatGPT.flow("continue")
