@@ -1,0 +1,6 @@
+
+# Ignore compiled memory packages
+*.libf.pkg.zip
+# Optional: ignore personal snapshots
+*.secure.libf
+*.libf
