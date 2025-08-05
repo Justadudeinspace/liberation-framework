@@ -1,0 +1,6 @@
+
+# Alias for launching the Liberation CLI
+alias libf="python3 ~/libf/libf_cli.py"
+
+# Optional: load memory state on shell open
+# source ~/libf/.libf.auto

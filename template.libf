@@ -1,0 +1,19 @@
+# Liberation Interface Base File
+# Snapshot: example-init
+# Timestamp: YYYY-MM-DD HH:MM:SS
+
+[PROJECT]
+Name: ExampleProject
+Location: /home/user/ExampleProject
+Files: main.py, README.md
+
+[STATE]
+Description: First memory snapshot for persistent task state
+Pending Tasks:
+- Integrate AI context
+- Inject .libf into Termux shell
+
+[COMMANDS]
+Sol.load(.libf)
+Sol.snapshot("current")
+Sol.flow("continue")

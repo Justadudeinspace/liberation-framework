@@ -1,0 +1,13 @@
+# Liberation Interface Base File (Secure Template)
+# Snapshot: public-sample
+# Stripped of personal data
+
+[PROJECT]
+Name: PublicExample
+Location: /app/project
+Files: app.py, LICENSE
+
+[STATE]
+Description: Memory structure template for release
+Pending Tasks:
+- Replace with your own
