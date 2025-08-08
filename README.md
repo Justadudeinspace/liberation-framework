@@ -1,3 +1,10 @@
+<center>
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Justadudeinspace/blux/main/assets/banner/blux-libf-banner-wide.png" alt="Liberation Framework Banner" width="100%" />
+
+</div>
+</center>
 
 ---
 
